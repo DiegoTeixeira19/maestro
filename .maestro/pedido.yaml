@@ -5,7 +5,7 @@ appId: com.qazandoqafood
 - tapOn: "PERMITIR"
 - tapOn: "Pastelaria da Maria"
 - tapOn:
-    point: "95%,51%"
+    point: "95%,48%"
 - tapOn:
     id: "qtd-itens"
 - tapOn: "CONFIRMAR PEDIDO"
