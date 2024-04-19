@@ -11,7 +11,7 @@ appId: com.qazandoqafood
 - tapOn: "CONFIRMAR PEDIDO"
 - scroll
 - tapOn:
-    point: "10%,63%"
+    point: "10%,69%"
 - tapOn: "FAZER PEDIDO"
 - assertVisible: "Pedido realizado"
 - stopApp: com.qazandoqafood
